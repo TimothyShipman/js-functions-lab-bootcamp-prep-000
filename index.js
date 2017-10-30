@@ -1,10 +1,10 @@
 // write your code below!
-function happyHolidays(string){
+function happyHolidays(){
   return ("Happy holidays!")
 }
 
-function happyHolidaysTo("name"){
-  if  (name() === "you"){
+function happyHolidaysTo(name){
+  (name() === "you"){
     return ("Happy holidays, ${name}!")
   }
 }
