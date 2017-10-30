@@ -5,6 +5,6 @@ function happyHolidays(){
 
 function happyHolidaysTo(name){
   (string) === you{
-    return ("Happy holidays, (string)!")
+    return ("Happy holidays, ${name}!")
   }
 }
