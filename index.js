@@ -4,7 +4,7 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(name){
-  if (string = you) {
+  if ((string) = you) {
     return ("Happy holidays, ${name}!")
   }
 }
